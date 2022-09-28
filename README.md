@@ -13,7 +13,7 @@ Il seguente progetto è così composto:
 -back end java con infrattura microservizi:
 
   .Servizio autenticazione per gestire tutti i dati degli utenti e generare JWT per verificare le connessione dei client e gestire i ruoli<br>
-      Comprende un DB mySQL per gestire i dati
+      Comprende un DB mySQL per gestire i dati degli utenti
   
   .Servizio gestionale prodotti per amministrare il magazzino<br>
       Comprende un DB mySQL per gestire i prodotti
